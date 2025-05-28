@@ -1,0 +1,17 @@
+
+# Emacs stuff
+*~
+#*
+
+# Pycache folder
+__pycache__/
+
+# Sphinx
+doc/build/
+
+# Logs
+*.log
+
+.vscode/
+
+conda-elsys.yml
