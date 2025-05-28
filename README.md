@@ -1,1 +1,2 @@
-# Weight-based-Inventory-Manager
+# Elsysprosjekt-gruppe-14
+Electronics systems design project
